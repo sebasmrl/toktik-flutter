@@ -10,7 +10,8 @@ You need to install the following dependencies:
   flutter pub add video_player
 ```
 
-## Show video
-<video width="620" height="540" controls>
+## Show app video
+![](./assets/imgs/muestra.gif)
+<!-- <video width="620" height="540" controls>
   <source src="./assets/videos/muestra.mp4" type="video/mp4">
-</video>
+</video> -->
