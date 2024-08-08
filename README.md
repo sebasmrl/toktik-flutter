@@ -12,6 +12,8 @@ You need to install the following dependencies:
 
 ## Show app video
 ![](./assets/imgs/muestra.gif)
+![](https://github.com/sebasmrl/toktik-flutter/blob/main/assets/imgs/muestra.gif?raw=true)
 <!-- <video width="620" height="540" controls>
   <source src="./assets/videos/muestra.mp4" type="video/mp4">
 </video> -->
+<a href="https://github.com/sebasmrl/toktik-flutter/blob/main/assets/imgs/muestra.gif?raw=true">Enlace Imagen</a>
